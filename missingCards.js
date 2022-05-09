@@ -13,5 +13,6 @@ function listCards(values, colors) {
 }
 
 function missingCards(input) {
-    let newInput = input.split(' ')
+    let newInput = input.split(' ');
+    let array = listCards(values, colors)
 }
