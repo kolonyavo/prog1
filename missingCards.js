@@ -23,5 +23,7 @@ function missingCards(input) {
             }
         }
     }
-    return array;
+    return array.join(' ');
 }
+
+console.log(missingCards('C2 C3 C4'));
