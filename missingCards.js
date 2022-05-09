@@ -23,4 +23,5 @@ function missingCards(input) {
             }
         }
     }
+    return array;
 }
